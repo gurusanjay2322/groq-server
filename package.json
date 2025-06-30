@@ -1,0 +1,15 @@
+{
+  "name": "groqserver",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.25.0"
+  }
+}
